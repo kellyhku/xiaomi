@@ -1,0 +1,109 @@
+/*css 初始化 */
+ html,
+ body, 
+ ul, 
+ li,
+ ol,
+ dl,
+ dt, 
+ dd, 
+ p, 
+ h1,
+ h2,
+ h3,
+ h4,
+ h5,
+ h6,
+ img,
+ input
+ a,
+ span,
+ i {
+    margin: 0;
+    padding: 0;  
+}
+ input, button {
+    border: 0 none;
+    outline: none;  
+}
+ul, ol {
+    list-style: none;
+}
+img {
+    vertical-align: middle;
+    border: none;
+}
+a {  
+    color:#666666;
+    text-decoration: none;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-weight: normal;
+}
+ i { 
+    font-style: normal; 
+}
+body {
+    font: 12px "microsoft yahei";  
+}
+.w {
+    width: 1226px;
+    margin: 0 auto;
+}
+.pull-left {
+    float: left;;
+}
+.pull-right {
+    float: right;;
+}
+.clearfix::before,.clearfix::after{
+    content: "";
+    display: block;
+    clear: both;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
